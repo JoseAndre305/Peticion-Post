@@ -7,7 +7,7 @@ const ConsultaAlumnos: React.FC = () => {
     const [descripcion, setDescripcion] = useState<string>('');
 
     const handleSearch = () => {
-        
+        //debe ir la consulta de la API
     };
 
     const handleClear = () => {
